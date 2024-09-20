@@ -8,5 +8,5 @@ I find that studying brand guides really help develop brand taste.
 
 1. [IBM](https://www.ibm.com/design/language/)
 
-## DSA 
+### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
