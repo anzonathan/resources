@@ -8,6 +8,7 @@ I find that studying brand guides really help develop brand taste.
 
 1. [IBM](https://www.ibm.com/design/language/)
 2. [Color Codes for flags](https://www.flagcolorcodes.com/uganda)
+3. [The only background remover tool I use](https://www.remove.bg/)
 
 ### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
