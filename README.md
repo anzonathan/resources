@@ -23,3 +23,7 @@ I find that studying brand guides really help develop brand taste.
 ### Software
 
 1. [Open Source Alternatives](https://www.opensourcealternative.to/)
+
+### Other
+
+1. [Learning LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
