@@ -10,6 +10,7 @@ I find that studying brand guides really help develop brand taste.
 2. [Color Codes for flags](https://www.flagcolorcodes.com/uganda)
 3. [The only background remover tool I use](https://www.remove.bg/)
 4. [Free Icons](https://freeicons.io/)
+5. [Apple Design Video](https://www.youtube.com/watch?v=RsbS5JWxFyk&list=PPSV)
 
 ### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
