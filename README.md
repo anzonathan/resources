@@ -4,7 +4,7 @@ All the resources I find useful
 
 ### UI/UX 
 
-I find that studying brand guides really help develop brand taste. 
+I find that studying brand guides really help develop good design taste. 
 
 1. [IBM](https://www.ibm.com/design/language/)
 2. [Color Codes for flags](https://www.flagcolorcodes.com/uganda)
