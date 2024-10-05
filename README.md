@@ -15,6 +15,9 @@ I find that studying brand guides really help develop good design taste.
 ### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
 
+### Data Science/ Analytics
+1. A [video](https://www.youtube.com/watch?v=0pJA8WxTAYI&pp=ygUQbmRjIGRhdGEgc2NpZW5jZQ%3D%3D) that showed me the constraints on excel in data science. 
+
 ### Just for fun
 
 ![nf](https://github.com/user-attachments/assets/10571098-68dc-4cc6-a761-47a9325644f0) 
