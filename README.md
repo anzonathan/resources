@@ -11,6 +11,7 @@ I find that studying brand guides really help develop good design taste.
 3. [The only background remover tool I use](https://www.remove.bg/)
 4. [Free Icons](https://freeicons.io/)
 5. [Apple Design Video](https://www.youtube.com/watch?v=RsbS5JWxFyk&list=PPSV)
+6. [Optimizing Svgs](https://github.com/svg/svgo)
 
 ### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
