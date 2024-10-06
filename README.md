@@ -31,3 +31,14 @@ I find that studying brand guides really help develop good design taste.
 ### Other
 
 1. [Learning LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
+
+### Inspirational Humans
+
+1. [Terrance Tao](https://terrytao.wordpress.com/)
+2. [Donald Knuth](
+Don Knuth's Home Page - Stanford Computer Science
+
+Stanford University
+https://www-cs-faculty.stanford.edu › ~knuth)
+3. [Rosalind Pickard](https://web.media.mit.edu/~picard/)
+4. [Po Shen Loh](https://www.poshenloh.com/)
