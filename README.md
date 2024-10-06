@@ -38,3 +38,4 @@ I find that studying brand guides really help develop good design taste.
 2. [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/)
 3. [Rosalind Pickard](https://web.media.mit.edu/~picard/)
 4. [Po Shen Loh](https://www.poshenloh.com/)
+5. [George Hotz](https://geohot.com/)
