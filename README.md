@@ -14,6 +14,13 @@ I find that studying brand guides really help develop good design taste.
 6. [Apple Design Video](https://www.youtube.com/watch?v=RsbS5JWxFyk&list=PPSV)
 7. [Optimizing Svgs](https://github.com/svg/svgo)
 
+### GitHub
+
+1. [Dashboarding for github repos](https://repo-tracker.com)
+2. [GitHub Stats guide](https://github.com/jdevfullstack/github-stats-guide)
+3. [Readme Stats Generator](https://gh-stats-gen.vercel.app/)
+4. [ReadMe Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+
 ### DSA 
 1. [Visualizing Data Structures](https://visualgo.net/en)
 
