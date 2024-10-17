@@ -32,6 +32,9 @@ I find that studying brand guides really help develop good design taste.
 ![nf](https://github.com/user-attachments/assets/10571098-68dc-4cc6-a761-47a9325644f0) 
 1. [NeoFetch](https://github.com/dylanaraps/neofetch/wiki/Installation)
 
+### VS Code Plugins
+
+1. [Spell Check](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ### Software
 
