@@ -14,6 +14,7 @@ I find that studying brand guides really help develop good design taste.
 6. [Apple Design Video](https://www.youtube.com/watch?v=RsbS5JWxFyk&list=PPSV)
 7. [Optimizing Svgs](https://github.com/svg/svgo)
 8. [Library for human illustrations](https://www.humaaans.com/)
+9. [Getting the fonts from an image](https://www.myfonts.com/pages/whatthefont)
 
 ### GitHub
 
