@@ -39,6 +39,7 @@ I find that studying brand guides really help develop good design taste.
 ### VS Code Plugins
 
 1. [Spell Check](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+2. [Live Sharing](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) Your Code
 
 ### Software
 
