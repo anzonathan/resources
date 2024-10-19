@@ -27,7 +27,8 @@ I find that studying brand guides really help develop good design taste.
 1. [Visualizing Data Structures](https://visualgo.net/en)
 
 ### Data Science/ Analytics
-1. A [video](https://www.youtube.com/watch?v=0pJA8WxTAYI&pp=ygUQbmRjIGRhdGEgc2NpZW5jZQ%3D%3D) that showed me the constraints on excel in data science. 
+1. A [video](https://www.youtube.com/watch?v=0pJA8WxTAYI&pp=ygUQbmRjIGRhdGEgc2NpZW5jZQ%3D%3D) that showed me the constraints on excel in data science.
+2. A youtube channel that taught me most of what I know about [Data and Statistics](https://www.youtube.com/@datatab)
 
 ### Just for fun
 
