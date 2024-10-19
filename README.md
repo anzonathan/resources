@@ -29,6 +29,7 @@ I find that studying brand guides really help develop good design taste.
 ### Data Science/ Analytics
 1. A [video](https://www.youtube.com/watch?v=0pJA8WxTAYI&pp=ygUQbmRjIGRhdGEgc2NpZW5jZQ%3D%3D) that showed me the constraints on excel in data science.
 2. A youtube channel that taught me most of what I know about [Data and Statistics](https://www.youtube.com/@datatab)
+3. [Statistics calculator](https://datatab.net/statistics-calculator/charts) for those who dont want to code.
 
 ### Just for fun
 
