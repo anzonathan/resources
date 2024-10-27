@@ -16,6 +16,7 @@ I find that studying brand guides really help develop good design taste.
 8. [Library for human illustrations](https://www.humaaans.com/)
 9. [Getting the fonts from an image](https://www.myfonts.com/pages/whatthefont)
 10. [Apple Design Resources](https://developer.apple.com/design/resources/)
+11. [Free Mockups](https://www.mockupworld.co/)
 
 ### GitHub
 
