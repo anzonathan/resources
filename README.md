@@ -17,6 +17,7 @@ I find that studying brand guides really help develop good design taste.
 9. [Getting the fonts from an image](https://www.myfonts.com/pages/whatthefont)
 10. [Apple Design Resources](https://developer.apple.com/design/resources/)
 11. [Free Mockups](https://www.mockupworld.co/)
+12. [Animeted Fluent Emojis](https://animated-fluent-emoji.vercel.app/)
 
 ### GitHub
 
