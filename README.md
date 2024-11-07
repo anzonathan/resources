@@ -18,6 +18,7 @@ I find that studying brand guides really help develop good design taste.
 10. [Apple Design Resources](https://developer.apple.com/design/resources/)
 11. [Free Mockups](https://www.mockupworld.co/)
 12. [Animeted Fluent Emojis](https://animated-fluent-emoji.vercel.app/)
+13. Remove [backrounds](https://www.unscreen.com/) from videos
 
 ### GitHub
 
