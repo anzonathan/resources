@@ -21,6 +21,9 @@ I find that studying brand guides really help develop good design taste.
 13. Remove [backrounds](https://www.unscreen.com/) from videos
 14. [MP4 to GIF](https://ezgif.com/video-to-gif)
 
+### Web
+1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
+
 ### GitHub
 
 1. [Dashboarding for github repos](https://repo-tracker.com)
