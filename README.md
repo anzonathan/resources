@@ -57,7 +57,8 @@ I find that studying brand guides really help develop good design taste.
 
 1. [Learning LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
 2. [Installing Arch Guide](https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae)
-3. A [guide](https://cpu.land/) to understanding computers from the basics. 
+3. A [guide](https://cpu.land/) to understanding computers from the basics.
+4. My [Conda](https://github.com/anzonathan/resources/blob/main/Conda.md) cheetsheet.
 
 ### Inspirational Humans
 
