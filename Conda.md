@@ -1,6 +1,6 @@
 # Commands I use everyday for conda
 
-### [Installing](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
+### [Installing Conda link](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 ### Creating a conda enviroment
 ```bash
