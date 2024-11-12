@@ -21,6 +21,7 @@ I find that studying brand guides really help develop good design taste.
 13. Remove [backrounds](https://www.unscreen.com/) from videos
 14. [MP4 to GIF](https://ezgif.com/video-to-gif)
 15. Tailwind [UI Library](https://www.hyperui.dev/)
+16. Another CSS [UI Library](https://uiverse.io/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
