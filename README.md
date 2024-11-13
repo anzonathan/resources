@@ -62,6 +62,7 @@ I find that studying brand guides really help develop good design taste.
 2. [Installing Arch Guide](https://gist.github.com/mjkstra/96ce7a5689d753e7a6bdd92cdc169bae)
 3. A [guide](https://cpu.land/) to understanding computers from the basics.
 4. My [Conda](https://github.com/anzonathan/resources/blob/main/Conda.md) cheetsheet.
+5. List of TZ [(timezone codes)](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
 
 ### Inspirational Humans
 
