@@ -23,6 +23,7 @@ I find that studying brand guides really help develop good design taste.
 15. Tailwind [UI Library](https://www.hyperui.dev/)
 16. Another CSS [UI Library](https://uiverse.io/)
 17. High Resolution [Emojjis](https://emojipedia.org/)
+18. A CSS take on an apple watch [design](https://cssanimation.rocks/watch/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
