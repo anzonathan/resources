@@ -2,6 +2,11 @@
 # resources
 All the resources I find useful
 
+### Talks
+
+These talks probably changed my life
+
+1. [Developer Excellence](https://www.youtube.com/watch?v=96VlfN7ViyE)
 ### UI/UX 
 
 I find that studying brand guides really help develop good design taste. 
