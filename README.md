@@ -26,7 +26,7 @@ I find that studying brand guides really help develop good design taste.
 13. Remove [backgrounds](https://www.unscreen.com/) from videos
 14. [MP4 to GIF](https://ezgif.com/video-to-gif)
 15. Tailwind [UI Library](https://www.hyperui.dev/)
-16. Another CSS [UI Library](https://uiverse.io/)
+16. Another Tailwind CSS [UI Library](https://mambaui.com/components/timeline)
 17. High Resolution [Emojjis](https://emojipedia.org/)
 18. A CSS take on an apple watch [design](https://cssanimation.rocks/watch/)
 
