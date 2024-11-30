@@ -82,5 +82,3 @@ I find that studying brand guides really help develop good design taste.
 5. [George Hotz](https://geohot.com/)
 6. [Andrej Karpathy](https://karpathy.ai/)
 
-### NPM Packages
-1. [Fast Glob](https://github.com/mrmlnc/fast-glob)
