@@ -31,8 +31,7 @@ I find that studying brand guides really help develop good design taste.
 18. Just one more [UI](https://daisyui.com/components/)
 19. High Resolution [Emojjis](https://emojipedia.org/)
 20. A CSS take on an apple watch [design](https://cssanimation.rocks/watch/)
-21. A [gallery](https://www.ogimage.gallery/) for websites
-22. Typface [generator](https://glyphy.io/)
+21. Design Systems [Guide](https://thedesignsystem.guide/resources)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
