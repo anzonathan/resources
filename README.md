@@ -7,6 +7,10 @@ All the resources I find useful
 These talks probably changed my life
 
 1. [Developer Excellence](https://www.youtube.com/watch?v=96VlfN7ViyE)
+
+### Crazy Web Devs 
+
+1. A website but an [os](https://dustinbrett.com/)
 ### UI/UX 
 
 I find that studying brand guides really help develop good design taste. 
