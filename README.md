@@ -36,6 +36,7 @@ I find that studying brand guides really help develop good design taste.
 19. High Resolution [Emojjis](https://emojipedia.org/)
 20. A CSS take on an apple watch [design](https://cssanimation.rocks/watch/)
 21. Random Color Pallet [Generator](https://farbvelo.elastiq.ch/)
+22. A design system [checklist](http://designsystemchecklist.com/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
