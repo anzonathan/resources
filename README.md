@@ -39,6 +39,7 @@ I find that studying brand guides really help develop good design taste.
 22. A design system [checklist](http://designsystemchecklist.com/)
 23. Design [Database](https://designsystems.surf/)
 24. A collection of [design systems](https://designsystemsrepo.com/)
+25. UI Component [Gallery](https://designsystemsrepo.com/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
