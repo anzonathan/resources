@@ -11,6 +11,8 @@ These talks probably changed my life
 ### Crazy Web Devs 
 
 1. A website but an [os](https://dustinbrett.com/)
+2. Spotify wrapped but for [Github](https://git-wrapped.com/)
+
 ### UI/UX 
 
 I find that studying brand guides really help develop good design taste. 
