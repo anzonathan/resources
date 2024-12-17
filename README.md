@@ -42,6 +42,7 @@ I find that studying brand guides really help develop good design taste.
 25. UI Component [Gallery](https://designsystemsrepo.com/)
 26. Grainy Gradient [Generator](https://hypercolor.dev/grainy) for Tailwind
 27. And another tailwind [UI Library](https://originui.com/)
+28. 100 Day [UI Challenge](https://www.dailyui.co)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
