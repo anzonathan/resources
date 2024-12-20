@@ -17,7 +17,7 @@ These talks probably changed my life
 
 I find that studying brand guides really help develop good design taste. 
 
-1. [IBM](https://www.ibm.com/design/language/)
+1. IBM's [Design Language](https://www.ibm.com/design/language/)
 2. [Color Codes for flags](https://www.flagcolorcodes.com/uganda)
 3. [The only background remover tool I use](https://www.remove.bg/)
 4. [Free Icons](https://freeicons.io/)
@@ -46,6 +46,7 @@ I find that studying brand guides really help develop good design taste.
 27. And another tailwind [UI Library](https://originui.com/)
 28. 100 Day [UI Challenge](https://www.dailyui.co)
 29. UX Design [Challenges](https://uxtools.co/challenges/)
+30. Material Design [by the authors](https://m3.material.io/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
