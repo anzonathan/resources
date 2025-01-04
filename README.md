@@ -17,6 +17,7 @@ These talks probably changed my life
 ### System Desing Articles 
 
 1. How Uber Scaled: [System Design](https://highscalability.com/brief-history-of-scaling-uber/)
+2. Uber Engineering: [Microservices](https://www.uber.com/en-UG/blog/building-tincup-microservice-implementation/?ref=highscalability.com)
 
 ### UI/UX 
 
