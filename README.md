@@ -9,10 +9,14 @@ These talks probably changed my life
 1. [Developer Excellence](https://www.youtube.com/watch?v=96VlfN7ViyE)
 2. [Documentaries](https://www.youtube.com/@Honeypotio) on some of the biggest open source projects
 
-### Crazy Web Devs 
+### Crazy Devs 
 
 1. A website but an [os](https://dustinbrett.com/)
 2. Spotify wrapped but for [Github](https://git-wrapped.com/)
+
+### System Desing Articles 
+
+1. How Uber Scaled: [System Design](https://highscalability.com/brief-history-of-scaling-uber/)
 
 ### UI/UX 
 
