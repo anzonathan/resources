@@ -57,6 +57,7 @@ I find that studying brand guides really help develop good design taste.
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
 2. The book I used to get good at JavaScript. [Eloquent JavaScript](https://eloquentjavascript.net/)
+3. Just a Beautiful [website](https://www.android.com/better-together/quick-share-app/) by google
 
 ### GitHub
 
