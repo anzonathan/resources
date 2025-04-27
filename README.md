@@ -57,6 +57,7 @@ I find that studying brand guides really help develop good design taste.
 32. UX Design [Challenges](https://uxtools.co/challenges/)
 33. Material Design [by the authors](https://m3.material.io/)
 34. tailwind [backgrounds](https://tailkits.com/components/tailwind-background-snippets/)
+35. [logos](https://svgl.app/)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
