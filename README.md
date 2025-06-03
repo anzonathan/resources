@@ -58,7 +58,7 @@ I find that studying brand guides really help develop good design taste.
 33. Material Design [by the authors](https://m3.material.io/)
 34. tailwind [backgrounds](https://tailkits.com/components/tailwind-background-snippets/)
 35. [logos](https://svgl.app/)
-36. An Alpine.js and tailwind UI [Library](https://devdojo.com/pines)
+36. An Alpine.js and tailwind UI [Library](https://www.penguinui.com)
 
 ### Web
 1. [The Best Resourcee I have ever seen for Beginner HTML and CSS](https://wtf.tw/ref/duckett.pdf)
