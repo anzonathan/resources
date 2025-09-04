@@ -10,6 +10,13 @@ These talks probably changed my life
 2. [Documentaries](https://www.youtube.com/@Honeypotio) on some of the biggest open source projects
 3. [Failure](https://www.youtube.com/watch?v=Zf5rKTCMNnU&pp=ygUSamFjayBrb250ZSBwYXRyZW9u)
 
+### Engineering Blogs
+
+1. [Uber](https://www.uber.com/en-US/blog/engineering/)
+2. [Meta](https://engineering.fb.com/)
+3. [Spotify](https://engineering.atspotify.com/)
+4. [Netflix](https://netflixtechblog.com/)
+
 ### Crazy Devs 
 
 1. A website but an [os](https://dustinbrett.com/)
