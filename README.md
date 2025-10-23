@@ -7,7 +7,7 @@ All the resources I find useful
 These talks probably changed my life
 
 1. [Developer Excellence](https://www.youtube.com/watch?v=96VlfN7ViyE)
-2. [Documentaries](https://www.youtube.com/@Honeypotio) on some of the biggest open source projects
+2. [Documentaries](https://www.youtube.com/@cultrepo) on some of the biggest open source projects
 3. [Failure](https://www.youtube.com/watch?v=Zf5rKTCMNnU&pp=ygUSamFjayBrb250ZSBwYXRyZW9u)
 
 ### Engineering Blogs
