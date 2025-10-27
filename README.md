@@ -103,6 +103,7 @@ I find that studying brand guides really help develop good design taste.
 ### Software
 
 1. [Open Source Alternatives](https://www.opensourcealternative.to/)
+2. To imporove your [typing](https://www.typequicker.com/)
 
 ### Other
 
