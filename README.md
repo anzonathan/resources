@@ -2,6 +2,7 @@
 # resources
 All the resources I find useful
 
+
 ### Talks
 
 These talks probably changed my life
@@ -10,6 +11,9 @@ These talks probably changed my life
 2. [Documentaries](https://www.youtube.com/@cultrepo) on some of the biggest open source projects
 3. [Failure](https://www.youtube.com/watch?v=Zf5rKTCMNnU&pp=ygUSamFjayBrb250ZSBwYXRyZW9u)
 
+### Web Dev Tools
+
+1. For generating [favicons](https://realfavicongenerator.net/)
 ### Engineering Blogs
 
 1. [Uber](https://www.uber.com/en-US/blog/engineering/)
